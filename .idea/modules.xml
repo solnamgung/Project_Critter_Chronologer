@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nd035-c3-data-stores-and-persistence-project-starter-master/starter/critter/critter.iml" filepath="$PROJECT_DIR$/nd035-c3-data-stores-and-persistence-project-starter-master/starter/critter/critter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nd035-c3-data-stores-and-persistence-project-starter-master.iml" filepath="$PROJECT_DIR$/.idea/nd035-c3-data-stores-and-persistence-project-starter-master.iml" />
+    </modules>
+  </component>
+</project>
